@@ -31,11 +31,8 @@ The site should now be running on `localhost:3000`.
 
 ## Usage
 
-Feel free to explore the projects and the code behind them. The website is structured to highlight my proficiency in React, Node.js, Express, MongoDB, and various other tools and technologies.
+Feel free to explore the projects and the code behind them. The website is structured to highlight my proficiency in React, and various other tools and technologies.
 
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
 
 ## Contact
 
